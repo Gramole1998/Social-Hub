@@ -1,0 +1,13 @@
+com\gaurav\socialMedia\controller\UserController.class
+com\gaurav\socialMedia\config\JacksonConfig.class
+com\gaurav\socialMedia\config\RedisConfig.class
+com\gaurav\socialMedia\service\UserServiceInterface.class
+com\gaurav\socialMedia\service\UserServiceImpl.class
+com\gaurav\socialMedia\Entity\UserResponseDto.class
+com\gaurav\socialMedia\Entity\UserUpdateDto.class
+com\gaurav\socialMedia\Entity\UserRegistrationDto.class
+com\gaurav\socialMedia\repository\UserRepository.class
+com\gaurav\socialMedia\UserServiceApplication.class
+com\gaurav\socialMedia\config\SecurityConfig.class
+com\gaurav\socialMedia\Entity\User.class
+com\gaurav\socialMedia\exception\UserNotFoundException.class
